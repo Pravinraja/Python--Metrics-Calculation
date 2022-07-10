@@ -1,4 +1,4 @@
-# Python--Metrics-Calculation
+# Python--Metrics-Calculation Sept 2020
 Topics Covered in Evaluation Metrics: Accuracy, Precision, Recall, F-1 Measures, K-Fold Validation, Kappa Score, and Matrices
 
 
