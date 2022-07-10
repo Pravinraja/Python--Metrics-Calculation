@@ -1,5 +1,8 @@
 # Python--Metrics-Calculation
-Topics Covered: Accuracy, Precision, Recall, F-1 Measures
+Topics Covered in Evaluation Metrics: Accuracy, Precision, Recall, F-1 Measures, K-Fold Validation, and Kappa Score
+
+
+Tasks:
 
 Given a system that predicts if text is a Person or Not. Answer the questions that follow.
 
